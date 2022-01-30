@@ -1,8 +1,6 @@
 # Connect Session - 1/31/2022
----
 
 ## Lesson Outline
----
 
   * Ice-Breaker
     * Go around the room and have everyone introduce themselves
@@ -18,7 +16,6 @@
   * Q & A
 
 #### Lesson
----
 
   * Focus for this lesson will be CSS and Flexbox
     * These items are directly related to Lesson 3 - CSS and FlexBox
@@ -26,7 +23,6 @@
       * 
 
 #### Resources
----
 
   * https://www.w3schools.com/css/default.asp
     * Grid -  https://www.w3schools.com/css/css_grid.asp
