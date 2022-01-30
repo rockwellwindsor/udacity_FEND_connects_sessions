@@ -1,4 +1,4 @@
-# Connect Session - 1/31/2022
+# Connect Session - 2/1/2022
 
 ## Lesson Outline
 
@@ -17,14 +17,9 @@
 
 #### Lesson
 
-  * Focus for this lesson will be CSS and Flexbox
-    * These items are directly related to Lesson 3 - CSS and FlexBox
-      * Grid vs. FlexBox - Make clear the distinction in useage
-      * 
+  * Understanding Web Pages and Servers
+  * HTML Basic Syntax
 
 #### Resources
 
-  * https://www.w3schools.com/css/default.asp
-    * Grid -  https://www.w3schools.com/css/css_grid.asp
-  * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
+  * https://www.w3schools.com/html/

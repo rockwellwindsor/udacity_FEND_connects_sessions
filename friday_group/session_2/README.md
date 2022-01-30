@@ -17,14 +17,10 @@
 
 #### Lesson
 
-  * Focus for this lesson will be CSS and Flexbox
-    * These items are directly related to Lesson 3 - CSS and FlexBox
-      * Grid vs. FlexBox - Make clear the distinction in useage
-      * 
+  * Block vs. Inline
+  * How elements are structured
+  * The core and most commonly used HTML elements
 
 #### Resources
 
-  * https://www.w3schools.com/css/default.asp
-    * Grid -  https://www.w3schools.com/css/css_grid.asp
-  * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
+  * https://www.w3schools.com/html
