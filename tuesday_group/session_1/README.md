@@ -24,7 +24,7 @@
 
   * https://html-online.com/editor/
     * When you go to the page you have to delete everything out of the editor to clear it.
-    * One cool this with this is you can experiment with adding things in on the left side to see what HTML it produces on the right.
+    * One cool thing you can do with this is experiment with adding things in on the left side to see what HTML it produces on the right.
   * https://www.w3schools.com/html/
     * https://www.w3schools.com/html/html_symbols.asp
     * https://www.w3schools.com/html/html_emojis.asp
