@@ -1,0 +1,20 @@
+/*
+* introduce the W3 page and select the hearts character to work with
+* Place two hearts in the card
+* Position heart 1 in the upper left
+* Postion heart 2 in the bottom right - This will need some stuff they have no covered so address this breifly
+* Next Put in the Number, or in this case letter for the Ace
+* Discuss how to switch the display property so the A is above the heart but both are still floating left
+* If time you can show how to switch the direction of the second heart and second A to make them upside down
+*/
+
+.card_img {height: 250px;margin-top: 50px;}
+
+.playing_card {height: 250px;width: 175px;border: 1px solid #000;position: relative;border-radius: 5px;}
+/*#ace_of_hearts {margin-left: 5px;margin-top: 5px;}*/
+/*.playing_card #ace_of_hearts {float: left;}
+.playing_card #ace_of_hearts .heart {font-size: 45px;color: #ff0000;line-height: 45px;}
+.playing_card #ace_of_hearts .number {display: inline;font-size: 45px;color: #ff0000;line-height: 45px;}
+.playing_card .heart {display: block;}
+.playing_card .heart_2 {position: absolute;bottom: 0;right: 0;}*/
+
