@@ -29,4 +29,4 @@
     * Still a great resource, we used this for HTML and we will use it for CSS as well.
   * https://codepen.io/
     * Free to sign up.  Great resource and for a front end developer being able to store your work here to grab later is useful
- 
+      * Playing card pen: https://codepen.io/rockwellwindsor/pen/XWzgqGP
