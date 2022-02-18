@@ -1,4 +1,4 @@
-# Connect Session - 1/31/2022
+# Connect Session - 2/04/2022
 
 ## Lesson Outline
 
