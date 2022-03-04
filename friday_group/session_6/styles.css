@@ -1,0 +1,77 @@
+/* Establish Grid */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  grid-template-areas:
+    'hd hd hd hd hd hd'
+    'sb lc lc lc rc rc'
+    'ft ft ft ft ft ft';
+  gap: 10px;
+  background-color: #ffff00;
+  padding: 10px;
+}
+
+/* Assign Grid Areas */
+#header { grid-area: hd;background-color: #00ff00;}
+#sidebar { grid-area: sb;background-color: #ff0000;}
+#content-left { grid-area: lc;background-color: #0000ff;}
+#content-right { grid-area: rc;background-color: #ff00ff;}
+#footer { grid-area: ft;background-color: #00ffff; }
+
+/* Styles that all boxes will share */
+.grid-box {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.flex-area {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.flex-area .box {
+  flex-basis: 24%;
+  height: 75px;
+  border: 1px solid #000;
+}
+
+/* Tablet */
+/* Portrait and Landscape */
+@media (min-width: 761px) and (max-width: 1024px) {
+  .grid-container {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas:
+      'hd hd hd hd'
+      'lc lc rc rc'
+      'sb sb sb sb'
+      'ft ft ft ft';
+  }
+  #sidebar {
+    height: 125px;
+  }
+  .flex-area .box {
+    flex-basis: 49%;
+  }
+}
+
+/* Phone */
+/* Portrait and Landscape */
+@media (max-width: 760px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas:
+      'hd hd'
+      'lc lc'
+      'rc rc'
+      'sb sb'
+      'ft ft';
+  }
+  #sidebar {
+    height: 125px;
+  }
+  .flex-area .box {
+    flex-basis: 100%;
+  }
+}
