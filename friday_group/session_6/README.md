@@ -30,6 +30,6 @@
   * Meida Queries
     * https://css-tricks.com/a-complete-guide-to-css-media-queries/
     * https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
-    * Pirate Ispum
-      * https://pirateipsum.me/ (this actually appears to be broken at the moment)
-      * There are a lot of fun, themed lorem ipsum generators out there so search for what you like and see if it exists!
+  * Pirate Ispum
+    * https://pirateipsum.me/ (this actually appears to be broken at the moment)
+    * There are a lot of fun, themed lorem ipsum generators out there so search for what you like and see if it exists!
