@@ -22,7 +22,8 @@
 
 #### Resources
 
-  * W3 Media Queries: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+  * W3 Media Queries: https://www.w3schools.com/css/css3_mediaqueries.asp
+    * https://www.w3schools.com/css/css3_mediaqueries_ex.asp
   * https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2
     * CSS -  https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2#css
     * HTML - https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2#html
