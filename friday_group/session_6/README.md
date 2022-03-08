@@ -34,3 +34,4 @@
   * Pirate Ispum
     * https://pirateipsum.me/ (this actually appears to be broken at the moment)
     * There are a lot of fun, themed lorem ipsum generators out there so search for what you like and see if it exists!
+  * Udacity Accessability course - https://classroom.udacity.com/courses/ud891

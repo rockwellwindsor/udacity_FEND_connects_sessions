@@ -1,8 +1,6 @@
-body {
-  background: #000;
-}
+body {background: #000;}
 
-/* Step 1 Setup Grid */
+/* Establish Grid */
 .grid-container {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
@@ -15,38 +13,30 @@ body {
   background-color: #ffff00;
   padding: 10px;
 }
-/* Step 2 Assign Areas */
-#header {
-  grid-area: hd;
-  background-color: #00ff00;
+
+/* Assign Grid Areas */
+#header { grid-area: hd;background-color: #00ff00;}
+#sidebar { grid-area: sb;background-color: #ff0000;}
+#content-left { grid-area: lc;background-color: #0000ff;}
+#content-right { grid-area: rc;background-color: #ff00ff;}
+#footer { grid-area: ft;background-color: #00ffff; }
+
+/* Styles that all boxes will share */
+.grid-box {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
 }
-#sidebar {
-  grid-area: sb;
-  background-color: #ff0000;
-  height: 250px;
-}
-#content-left {
-  grid-area: lc;
-  background-color: #0000ff;
-}
-#content-right {
-  grid-area: rc;
-  background-color: #ff00ff;
-}
-#footer {
-  grid-area: ft;
-  background-color: #00ffff;
-}
-.flex-container {
-  display: flex;
+.flex-area {
   width: 100%;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
-.flex-container .box {
-  flex-basis: 24%; /* 25% */
+.flex-area .box {
+  flex-basis: 24%;
   height: 75px;
   border: 1px solid #000;
-  flex-wrap: wrap;
 }
 
 /* Tablet */
@@ -63,10 +53,11 @@ body {
   #sidebar {
     height: 125px;
   }
-  .flex-container .box {
+  .flex-area .box {
     flex-basis: 49%;
   }
 }
+
 /* Phone */
 /* Portrait and Landscape */
 @media (max-width: 760px) {
@@ -80,9 +71,9 @@ body {
       'ft ft';
   }
   #sidebar {
-    height: 100px;
+    height: 125px;
   }
-  .flex-container .box {
+  .flex-area .box {
     flex-basis: 100%;
   }
 }
