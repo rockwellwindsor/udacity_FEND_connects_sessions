@@ -37,6 +37,7 @@ body {
   grid-area: ft;
   background-color: #00ffff;
 }
+
 .flex-container {
   display: flex;
   width: 100%;
