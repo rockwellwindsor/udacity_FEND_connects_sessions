@@ -24,6 +24,7 @@
         * Verify what data is triggering what part of the conditionals
       * At the end of the function
         * Verify what data is being returned
+  * Codepen Debugging Example: https://codepen.io/rockwellwindsor/pen/eYyOyev
 
 #### Activity
 
@@ -35,5 +36,7 @@
     * Functions: https://www.w3schools.com/js/js_function_definition.asp
     * DOM: https://www.w3schools.com/js/js_htmldom.asp
   * Games: https://www.codingame.com/ide/puzzle/onboarding
+  * Reference Book site: https://www.javascriptbook.com/
+    * Examples: https://www.javascriptbook.com/code/
 
 

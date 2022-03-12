@@ -36,5 +36,7 @@
     * Functions: https://www.w3schools.com/js/js_function_definition.asp
     * DOM: https://www.w3schools.com/js/js_htmldom.asp
   * Games: https://www.codingame.com/ide/puzzle/onboarding
+  * https://www.javascriptbook.com/
+    * https://www.javascriptbook.com/code/
 
 
