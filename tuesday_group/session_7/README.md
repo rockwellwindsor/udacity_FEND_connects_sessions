@@ -24,6 +24,7 @@
         * Verify what data is triggering what part of the conditionals
       * At the end of the function
         * Verify what data is being returned
+  * Codepen Debugging Example: https://codepen.io/rockwellwindsor/pen/eYyOyev
 
 #### Activity
 
