@@ -28,9 +28,4 @@
     * While Loop: https://www.w3schools.com/js/js_loop_while.asp
   * Javascript Tutorial Channel: https://www.youtube.com/c/JamesQQuick
 
-
-
-
-
-
 <sup>1</sup> There are no actual prizes to win
