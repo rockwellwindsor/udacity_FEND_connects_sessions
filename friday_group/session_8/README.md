@@ -17,9 +17,7 @@
 
 #### Activity
 
-  * <a href="https://codepen.io/rockwellwindsor/pen/eYyZpZB" target ="_BLANK">Codepen Exercise</a>
-    * Use the debugging tips from <a href="https://github.com/rockwellwindsor/udacity_FEND_connects_sessions/tree/main/friday_group/session_7#lesson" target="_BLANK">last week</a> to help figure out how to get a hand of cards. The best hand wins!<sup>1</sup>
-  * Deal to yourself
+  * Deal to yourself. The best hand wins!<sup>1</sup>
     * https://codepen.io/rockwellwindsor/pen/XWVjjda
 
 #### Resources
