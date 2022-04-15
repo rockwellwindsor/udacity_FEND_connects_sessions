@@ -1,4 +1,4 @@
-# Connect Session #12
+# Connect Session #11
 
 ## Lesson Outline
 
@@ -13,18 +13,16 @@
 
 #### Lesson
 
-  * DOM part 2
+  * Intro to the DOM
 
 #### Activity
 
-  * Magic Street Game part 2
-    * https://codepen.io/rockwellwindsor/pen/mdpQroE?editors=0010
+  * https://codepen.io/rockwellwindsor/pen/wvpjPPr?editors=1010
 
 #### Resources
 
-  * DOM changing CSS: https://www.w3schools.com/js/js_htmldom_css.asp
-  * DOM Events: https://www.w3schools.com/js/js_htmldom_events.asp
-  * DOM navigation: https://www.w3schools.com/js/js_htmldom_navigation.asp
-  * DOM HTML elements: https://www.w3schools.com/jsreF/dom_obj_all.asp
-  * Udacity Home Page code sample: https://github.com/udacity/course-JS-and-the-DOM
+
+  * https://www.w3schools.com/js/js_htmldom.asp
+  * Javascript DOM tutorial: https://www.javascripttutorial.net/javascript-dom/
+  * Why using const in a for loop works: https://stackoverflow.com/questions/1026069/how-do-i-make-the-first-letter-of-a-string-uppercase-in-javascript
 
