@@ -23,5 +23,6 @@
 #### Resources
 
   * Window: https://www.w3schools.com/js/js_window.asp
+  * offset: https://www.w3schools.com/jsref/prop_element_offsettop.asp
   * Udacity Home Page code sample: https://github.com/udacity/course-JS-and-the-DOM
 
